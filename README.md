@@ -1,9 +1,7 @@
 # Reddit_post_poplarity_prediction
 
-## Table of contents
-
-  Introduction and data insights*	3
-  Project Outline*	3
+    0 Introduction and data insights*	3
+    0 Project Outline*	3
     1	Data Preprocessing*	4
     2	Feature Engineering	5
       2.1	Author Feature*	5
@@ -30,5 +28,5 @@
     5	Model Tuning and Tesing (Results)	20
       5.1	Tuning	20
       5.2	Testing (Result)*	21
-  References	22
+    References	22
 
