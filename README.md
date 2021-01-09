@@ -2,8 +2,8 @@
 
 ## Table of contents
 
-  Introduction and data insights*	3
-  Project Outline*	3
+Introduction and data insights*	3
+Project Outline*	3
   1	Data Preprocessing*	4
   2	Feature Engineering	5
   2.1	Author Feature*	5
