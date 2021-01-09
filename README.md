@@ -38,9 +38,9 @@ Reddit is a social website to share content related to a plethora of topics call
 
 ## Project Outline
 
-    1.	Data Preprocessing – Cleaning the data from null or missing values and removing sparse features 
-    2.	Feature Engineering – Generating new features from the existing features to help our model learn
-    3.	Data Exploration – Exploring the dataset for statistical insights and dependencies of features to target
-    4.	Model Development – Deploying multiple machine learning models and comparing their performance using R2 and RMSE evaluation metrics
-    5.	Tuning and Testing – The best model is then chosen and tested in the OOT (out of time) dataset so verify if the model has generalized enough to predict scores of completely unseen reddit posts data.
+1. Data Preprocessing – Cleaning the data from null or missing values and removing sparse features 
+2. Feature Engineering – Generating new features from the existing features to help our model learn
+3. Data Exploration – Exploring the dataset for statistical insights and dependencies of features to target
+4. Model Development – Deploying multiple machine learning models and comparing their performance using R2 and RMSE evaluation metrics
+5. Tuning and Testing – The best model is then chosen and tested in the OOT (out of time) dataset so verify if the model has generalized enough to predict scores of completely unseen reddit posts data.
 
